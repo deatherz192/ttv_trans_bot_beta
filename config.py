@@ -24,7 +24,7 @@ Ignore_Lang             = ["tt", "af", "sq", "am", "ar", "hy", "az", "eu", "be",
                 "sv", "tg", "ta", "te", "th", "tr", "uk", "ur", "uz", "vi", "cy", "xh", "yi", "yo", "zu"]
 Ignore_Users            = ['Nightbot', 'ditugga_bot']
 Ignore_Line             = ['http', '.com', '.ru' '⣿', '░', '▓']
-Delete_Words            = ['ditugga']
+Delete_Words            = ['ditugga', '+', '-']
 
 # Any emvironment, set it to `True`, then text will be read by TTS voice!
 # TTS_In:User Input Text, TTS_Out:Bot Output Text
