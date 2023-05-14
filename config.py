@@ -3,9 +3,7 @@
 Twitch_Channel          = 'deatherz192'
 
 Trans_Username          = 'ditugga_bot'
-#Trans_Username          = 'ddotb'
 Trans_OAUTH             = 'oauth:kvl59h3dc696kupu5a7s3zfzawtix3'
-#Trans_OAUTH             = 'oauth:asrboztzet3ybctrrun47rnlfhhbs5'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
