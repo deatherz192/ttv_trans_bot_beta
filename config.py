@@ -1,6 +1,6 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'deatherz192'
+Twitch_Channel          = 'ditugga'
 
 Trans_Username          = 'ditugga_bot'
 Trans_OAUTH             = 'oauth:kvl59h3dc696kupu5a7s3zfzawtix3'
