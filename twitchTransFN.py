@@ -169,7 +169,7 @@ class Bot(commands.Bot):
         'Called once when the bot goes online.'
         print(f"{self.nick} is online!")
         await channel.send(f"/color {config.Trans_TextColor}")
-        await channel.send(f"/me Запуск")
+        await channel.send(f"/me Бот-переводчик запущен CorgiDerp (beta 2.5.1_3)")
 
     # メッセージを受信したら ####################
     async def event_message(self, msg):
