@@ -1,6 +1,6 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'deatherz192'
+Twitch_Channel          = 'ditugga'
 
 Trans_Username          = 'ditugga_bot'
 Trans_OAUTH             = 'oauth:kvl59h3dc696kupu5a7s3zfzawtix3'
@@ -11,7 +11,7 @@ Trans_TextColor         = 'HotPink'
 # Blue, Coral, DodgerBlue, SpringGreen, YellowGreen, Green, OrangeRed, Red, GoldenRod, HotPink, CadetBlue, SeaGreen, Chocolate, BlueViolet, and Firebrick
 
 lang_TransToHome        = 'ru'
-lang_HomeToOther        = ''
+lang_HomeToOther        = 'ru'
 
 Show_ByName             = True
 Show_ByLang             = True
