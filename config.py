@@ -44,7 +44,7 @@ Translator              = 'deepl'
 
 # Use Google Apps Script for tlanslating
 # e.g.) GAS_URL         = 'https://script.google.com/macros/s/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/exec'
-GAS_URL                 = ''
+GAS_URL                 = 'https://script.google.com/macros/s/AKfycbyAlFZooSCW7MpzRCmnX4HueuTeS4nVg7gWMG8yPINrZDl89VSSe-UblitZ4AMhYU9F/exec'
 
 # Enter the suffix of the Google Translate URL you normally use.
 # Example: translate.google.co.jp -> 'co.jp'
