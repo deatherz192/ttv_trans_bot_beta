@@ -11,7 +11,7 @@ Trans_TextColor         = 'HotPink'
 # Blue, Coral, DodgerBlue, SpringGreen, YellowGreen, Green, OrangeRed, Red, GoldenRod, HotPink, CadetBlue, SeaGreen, Chocolate, BlueViolet, and Firebrick
 
 lang_TransToHome        = 'ru'
-lang_HomeToOther        = 'ru'
+lang_HomeToOther        = ''
 
 Show_ByName             = True
 Show_ByLang             = True
