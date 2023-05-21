@@ -1,6 +1,6 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'deatherz192'
+Twitch_Channel          = 'ditugga_bot'
 
 Trans_Username          = 'ditugga_bot'
 Trans_OAUTH             = 'oauth:kvl59h3dc696kupu5a7s3zfzawtix3'
@@ -32,8 +32,8 @@ TTS_In                  = False
 TTS_Out                 = False
 TTS_Kind                = "gTTS" # You can choice "CeVIO" if you want to use CeVIO as TTS.
 # CeVIO_Cast            = "さとうささら" # When you are using CeVIO, you must set voice cast name.
-TTS_TextMaxLength	      = 0
-TTS_MessageForOmitting  = ""
+TTS_TextMaxLength = 0
+TTS_MessageForOmitting = ''
 
 # if you make TTS for only few lang, please add langID in the list
 # for example, ['ja'] means Japanese only, ['ko','en'] means Korean and English are TTS!
