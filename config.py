@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'ditugga'
+Twitch_Channel          = ''
 
-Trans_Username          = 'ditugga_bot'
-Trans_OAUTH             = 'oauth:kvl59h3dc696kupu5a7s3zfzawtix3'
+Trans_Username          = ''
+Trans_OAUTH             = 'oauth:'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -22,9 +22,9 @@ Ignore_Lang             = ["tt", "af", "sq", "am", "ar", "hy", "az", "eu", "be",
                 "lo", "la", "lv", "lt", "lb", "mk", "mg", "ms", "ml", "mt", "mi", "mr", "mn", "my", "ne", "no", "ps", "fa",
                 "pl", "pt", "ma", "ro", "ru", "sm", "gd", "sr", "st", "sn", "sd", "si", "sk", "sl", "so", "su", "sw",
                 "sv", "tg", "ta", "te", "th", "tr", "uk", "ur", "uz", "vi", "cy", "xh", "yi", "yo", "zu"]
-Ignore_Users            = ['Nightbot', 'ditugga_bot']
+Ignore_Users            = ['Nightbot']
 Ignore_Line             = ['http', '.com', '.ru' '⣿', '░', '▓']
-Delete_Words            = ['ditugga', '+', '-']
+Delete_Words            = ['+', '-']
 
 # Any emvironment, set it to `True`, then text will be read by TTS voice!
 # TTS_In:User Input Text, TTS_Out:Bot Output Text
